@@ -18,7 +18,7 @@ class Stack
 end
 
 class Queue
-  def initialize(arr =[])
+  def initialize(arr = [])
     @queue = arr
   end
 
